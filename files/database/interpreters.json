@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Petrov Ivan",
+        "id": 1,
+        "knowledge": [
+            "RU-EN"
+        ],
+        "projectsInProgress": 0
+    },
+    {
+        "name": "Sidorova Sidora",
+        "id": 2,
+        "knowledge": [
+            "RU-EN",
+            "RU-FR"
+        ],
+        "projectsInProgress": 0
+    },
+    {
+        "name": "Ivanov victor",
+        "id": 3,
+        "knowledge": [
+            "RU-DE",
+            "RU-IT"
+        ],
+        "projectsInProgress": 0
+    }
+]
